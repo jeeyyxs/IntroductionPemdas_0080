@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {//start
     float p,l,luas;
-
+    //
     //langkah 2 : Masukkan Panjang
     cout << "Masukkan Panjang : " ;
     cin >> p;
